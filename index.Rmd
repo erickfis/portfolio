@@ -1,15 +1,23 @@
 ---
 title: "Erick Gomes Anastácio"
-output: html_document
+output:
+  html_document:
+    theme: simplex       
+    highlight: zenburn
 
 ---
 
 
-## Data Scientist {.tabset}
+## Data Scientist {.tabset .tabset-fade .tabset-pills}
 
 ### About me
 
-Need About me text here
+Under construction - coming soon
+
+flatly
+simplex
+cosmo
+lumen
 
 
 ```{r, echo=FALSE}
