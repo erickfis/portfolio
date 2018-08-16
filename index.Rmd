@@ -49,6 +49,11 @@ Need NLP text here
 plot(cars)
 ```
 
+```{r}
+summary(cars)
+```
+
+
 ### Neural Networks
 
 Need NN text here
@@ -57,6 +62,11 @@ Need NN text here
 ```{r, echo=FALSE}
 plot(cars)
 ```
+
+```{r}
+summary(cars)
+```
+
 
 ### Dashboards
 
