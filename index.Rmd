@@ -12,77 +12,41 @@ output:
 
 ### About me
 
-Under construction - coming soon
-
-flatly
-simplex
-cosmo
-lumen
-
-
-```{r, echo=FALSE}
-plot(cars)
-```
+```{r child = 'about.Rmd'}
+```    
 
 
 ### Regression
 
-Need regression text here
-```{r}
-summary(cars)
-```
+```{r child = 'regression.Rmd'}
+```    
 
 
 ### Machine Learning
 
-Need ml text here
-```{r}
-summary(cars)
-```
+```{r child = 'ml.Rmd'}
+```    
 
 ### NLP
 
-Need NLP text here
+```{r child = 'nlp.Rmd'}
+```    
 
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-```{r}
-summary(cars)
-```
 
 
 ### Neural Networks
 
-Need NN text here
-
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-```{r}
-summary(cars)
-```
+```{r child = 'nn.Rmd'}
+```    
 
 
 ### Dashboards
 
-Need Dashboards text here
-
-
-```{r, echo=FALSE}
-plot(cars)
-```
+```{r child = 'dash.Rmd'}
+```    
 
 ### Descriptive Analysis
 
-Need Descriptive Analysis text here
-
-
-```{r, echo=FALSE}
-plot(cars)
-```
+```{r child = 'analysis.Rmd'}
+```    
 
