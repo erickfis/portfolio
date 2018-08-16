@@ -1,0 +1,70 @@
+---
+title: "Erick Gomes Anastácio"
+output: html_document
+
+---
+
+
+## Data Scientist {.tabset}
+
+### About me
+
+Need About me text here
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+
+### Regression
+
+Need regression text here
+```{r}
+summary(cars)
+```
+
+
+### Machine Learning
+
+Need ml text here
+```{r}
+summary(cars)
+```
+
+### NLP
+
+Need NLP text here
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+### Neural Networks
+
+Need NN text here
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+### Dashboards
+
+Need Dashboards text here
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+### Descriptive Analysis
+
+Need Descriptive Analysis text here
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
