@@ -1,1 +1,36 @@
-hello
+#### Analysis of Financial Investments
+
+A descriptive analysis of personal financial investments.
+
+Done in R programming language.
+
+[Full Report](https://erickfis.github.io/personal-financial-investments)
+
+
+***
+
+#### NOAA Storm Database - worst cases
+
+Analysis of the NOAA Storm Database, in order to determine what are the worst natural catastrophic events, both in terms of public health and in economic impact. 
+
+The U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage.
+
+The database currently contains data from January 1950 to January 2017, as entered by NOAA’s National Weather Service (NWS).
+
+Done in R programming language.
+
+[Full Report](https://erickfis.github.io/NOAA-Storm-Database/) | 
+[Pitch presentation](https://erickfis.github.io/NOAA-Storm-Database/slides-picth/) |
+[Shinny Dashboard - R](https://erickfis.shinyapps.io/noaa_storm_db_-_economic_losses_-_nvd3/)
+
+***
+
+
+#### Plataforma Mobills - Análise de Despesas Pessoais
+
+Uma análise descritiva sobre despesas familiares, tendo como base dados coletados através da plataforma mobils.
+
+Feito em linguagem R.
+
+[Relatório completo](https://erickfis.github.io/mobils/)
+

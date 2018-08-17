@@ -1,1 +1,5 @@
-hello
+#### NLP for topic modeling - building a chat-bot with LDA
+
+Using python + natural language processing for topic modeling through Latent Dirichlet Allocation: a unsupervised technique for document classification.
+
+[Full report](http://nbviewer.jupyter.org/github/erickfis/Python-NLP/blob/master/py-nlp-topics/index.ipynb)
