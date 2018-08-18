@@ -23,7 +23,8 @@ They proposed this challenge where data scientists were invited to use a sample 
 
 Using Python for data cleaning and analysis, I've fitted linear regression and machine learning models to accomplish the challenge.
 
-https://www.kaggle.com/c/mercari-price-suggestion-challenge
+[challenge description at Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge)
+
 
 
 [Part 1 - data cleaning and analysis](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/kaggle/mercari/data-cleaning.ipynb) |
