@@ -1,5 +1,5 @@
 ---
-title: "Erick Gomes Anastácio"
+title: "Erick Medeiros Anastácio"
 output:
   html_document:
     theme: simplex       

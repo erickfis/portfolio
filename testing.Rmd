@@ -1,0 +1,19 @@
+---
+title: "Erick Gomes Anastácio"
+output:
+  html_document
+
+
+---
+
+
+## Data Scientist {.tabset .tabset-fade .tabset-pills}
+
+### tab 1
+
+tab 1 content
+
+### tab 2
+
+
+tab 2 content
