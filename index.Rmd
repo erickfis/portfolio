@@ -1,10 +1,9 @@
 ---
 title: "Erick Medeiros Anastácio"
 output:
-  html_document:
-    theme: simplex       
+  html_document: 
     highlight: zenburn
-
+    theme: simplex
 ---
 
 
