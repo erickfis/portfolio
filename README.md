@@ -1,4 +1,4 @@
-## Erick Gomes Anastácio - portfolio
+## Erick Medeiros Anastácio - portfolio
 
 Please visit https://erickfis.github.io/portfolio/
 
