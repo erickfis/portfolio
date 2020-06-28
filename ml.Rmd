@@ -1,36 +1,9 @@
-#### Auto-1 Data Science Challenge
+#### AutoOne Price Prediction
 
 Using python + regression models & machine learning, conduct modeling for predicting car prices.
 
-[Data cleaning](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/cleaning.ipynb) |
-[Data analysis](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/analysis.ipynb) |
-[Linear regression models](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/linear-regression.ipynb) |
-[Machine Learning models](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/machine.ipynb)
+[Full story](https://erickfis.github.io/autoOne_regression/)
 
-
-[Predicting missing prices](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/prediction.ipynb) |
-[Improving the model](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/improving.ipynb) |
-[Criteria and considerations for model selection](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/criteria.ipynb) |
-[Tools used](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/auto-1/tools.ipynb)
-
-***
-
-#### Kaggle - Mercari Price Suggestion Challenge
-
-Mercari is a virtual store where users can buy and sell products their products.
-
-They proposed this challenge where data scientists were invited to use a sample data base (1482535 lines) to develop a model capable of suggesting prices for users when they are listing new items for sale.
-
-Using Python for data cleaning and analysis, I've fitted linear regression and machine learning models to accomplish the challenge.
-
-[challenge description at Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge)
-
-
-[Part 1 - data cleaning and analysis](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/kaggle/mercari/data-cleaning.ipynb) |
-[Part 2 - modeling ](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/kaggle/mercari/modeling.ipynb) |
-[Part 3 - prediction on test set](http://nbviewer.jupyter.org/github/erickfis/Challenges/blob/master/kaggle/mercari/prediction.ipynb)
-
-***
 
 #### Human Activity Recognition
 
